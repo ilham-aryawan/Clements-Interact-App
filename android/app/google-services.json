@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "547632855399",
+    "firebase_url": "https://clements-interact-app.firebaseio.com",
+    "project_id": "clements-interact-app",
+    "storage_bucket": "clements-interact-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547632855399:android:1500f32cbac1fb449197c2",
+        "android_client_info": {
+          "package_name": "com.ilhamaryawan.interacttester_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547632855399-nupo12bh9i2glmi7bedkbn9csjgtlk2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ilhamaryawan.interacttester_app",
+            "certificate_hash": "8cec0919a1f684607b9208ced273de0bcba314f1"
+          }
+        },
+        {
+          "client_id": "547632855399-1vbiglagkgk5cr4r9qh6i7280qrhq946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSQShUYnCXralPCAWaYf8ksw1HtFSqJUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547632855399-1vbiglagkgk5cr4r9qh6i7280qrhq946.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547632855399-98mn97f5n3ococ6k2kbs7pjtj71itjnn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ilhamaryawan.interacttesterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
